@@ -55,6 +55,6 @@ All screenshots showing setup, failover, and alerts are available in the `/scree
 
 ---
 
-## ⚠️ Note
-AWS resources were deleted after successful implementation to avoid ongoing charges.
-architecture/architecture-diagram.png
+## 🏗️ Architecture Diagram
+
+![AWS Auto Scaling & Failover Architecture](architecture/architecture-diagram.png)
